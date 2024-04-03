@@ -1,0 +1,15 @@
+C:\Users\AUStudent\source\repos\Homework5Solution\Homework5Project\obj\Debug\net6.0\Homework5Project.csproj.AssemblyReference.cache
+C:\Users\AUStudent\source\repos\Homework5Solution\Homework5Project\obj\Debug\net6.0\Homework5Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AUStudent\source\repos\Homework5Solution\Homework5Project\obj\Debug\net6.0\Homework5Project.AssemblyInfoInputs.cache
+C:\Users\AUStudent\source\repos\Homework5Solution\Homework5Project\obj\Debug\net6.0\Homework5Project.AssemblyInfo.cs
+C:\Users\AUStudent\source\repos\Homework5Solution\Homework5Project\obj\Debug\net6.0\Homework5Project.csproj.CoreCompileInputs.cache
+C:\Users\AUStudent\source\repos\Homework5Solution\Homework5Project\bin\Debug\net6.0\Homework5Project.exe
+C:\Users\AUStudent\source\repos\Homework5Solution\Homework5Project\bin\Debug\net6.0\Homework5Project.deps.json
+C:\Users\AUStudent\source\repos\Homework5Solution\Homework5Project\bin\Debug\net6.0\Homework5Project.runtimeconfig.json
+C:\Users\AUStudent\source\repos\Homework5Solution\Homework5Project\bin\Debug\net6.0\Homework5Project.dll
+C:\Users\AUStudent\source\repos\Homework5Solution\Homework5Project\bin\Debug\net6.0\Homework5Project.pdb
+C:\Users\AUStudent\source\repos\Homework5Solution\Homework5Project\obj\Debug\net6.0\Homework5Project.dll
+C:\Users\AUStudent\source\repos\Homework5Solution\Homework5Project\obj\Debug\net6.0\refint\Homework5Project.dll
+C:\Users\AUStudent\source\repos\Homework5Solution\Homework5Project\obj\Debug\net6.0\Homework5Project.pdb
+C:\Users\AUStudent\source\repos\Homework5Solution\Homework5Project\obj\Debug\net6.0\Homework5Project.genruntimeconfig.cache
+C:\Users\AUStudent\source\repos\Homework5Solution\Homework5Project\obj\Debug\net6.0\ref\Homework5Project.dll
