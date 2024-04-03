@@ -1,0 +1,15 @@
+C:\Users\AUStudent\source\repos\Project2Solution\Project2Project\obj\Debug\net6.0\Project2Project.csproj.AssemblyReference.cache
+C:\Users\AUStudent\source\repos\Project2Solution\Project2Project\obj\Debug\net6.0\Project2Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AUStudent\source\repos\Project2Solution\Project2Project\obj\Debug\net6.0\Project2Project.AssemblyInfoInputs.cache
+C:\Users\AUStudent\source\repos\Project2Solution\Project2Project\obj\Debug\net6.0\Project2Project.AssemblyInfo.cs
+C:\Users\AUStudent\source\repos\Project2Solution\Project2Project\obj\Debug\net6.0\Project2Project.csproj.CoreCompileInputs.cache
+C:\Users\AUStudent\source\repos\Project2Solution\Project2Project\bin\Debug\net6.0\Project2Project.exe
+C:\Users\AUStudent\source\repos\Project2Solution\Project2Project\bin\Debug\net6.0\Project2Project.deps.json
+C:\Users\AUStudent\source\repos\Project2Solution\Project2Project\bin\Debug\net6.0\Project2Project.runtimeconfig.json
+C:\Users\AUStudent\source\repos\Project2Solution\Project2Project\bin\Debug\net6.0\Project2Project.dll
+C:\Users\AUStudent\source\repos\Project2Solution\Project2Project\bin\Debug\net6.0\Project2Project.pdb
+C:\Users\AUStudent\source\repos\Project2Solution\Project2Project\obj\Debug\net6.0\Project2Project.dll
+C:\Users\AUStudent\source\repos\Project2Solution\Project2Project\obj\Debug\net6.0\refint\Project2Project.dll
+C:\Users\AUStudent\source\repos\Project2Solution\Project2Project\obj\Debug\net6.0\Project2Project.pdb
+C:\Users\AUStudent\source\repos\Project2Solution\Project2Project\obj\Debug\net6.0\Project2Project.genruntimeconfig.cache
+C:\Users\AUStudent\source\repos\Project2Solution\Project2Project\obj\Debug\net6.0\ref\Project2Project.dll

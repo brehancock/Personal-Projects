@@ -1,0 +1,15 @@
+C:\Users\AUStudent\source\repos\Project1Phase3\Project1Phase3\obj\Debug\net6.0\Project1Phase3.csproj.AssemblyReference.cache
+C:\Users\AUStudent\source\repos\Project1Phase3\Project1Phase3\obj\Debug\net6.0\Project1Phase3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AUStudent\source\repos\Project1Phase3\Project1Phase3\obj\Debug\net6.0\Project1Phase3.AssemblyInfoInputs.cache
+C:\Users\AUStudent\source\repos\Project1Phase3\Project1Phase3\obj\Debug\net6.0\Project1Phase3.AssemblyInfo.cs
+C:\Users\AUStudent\source\repos\Project1Phase3\Project1Phase3\obj\Debug\net6.0\Project1Phase3.csproj.CoreCompileInputs.cache
+C:\Users\AUStudent\source\repos\Project1Phase3\Project1Phase3\bin\Debug\net6.0\Project1Phase3.exe
+C:\Users\AUStudent\source\repos\Project1Phase3\Project1Phase3\bin\Debug\net6.0\Project1Phase3.deps.json
+C:\Users\AUStudent\source\repos\Project1Phase3\Project1Phase3\bin\Debug\net6.0\Project1Phase3.runtimeconfig.json
+C:\Users\AUStudent\source\repos\Project1Phase3\Project1Phase3\bin\Debug\net6.0\Project1Phase3.dll
+C:\Users\AUStudent\source\repos\Project1Phase3\Project1Phase3\bin\Debug\net6.0\Project1Phase3.pdb
+C:\Users\AUStudent\source\repos\Project1Phase3\Project1Phase3\obj\Debug\net6.0\Project1Phase3.dll
+C:\Users\AUStudent\source\repos\Project1Phase3\Project1Phase3\obj\Debug\net6.0\refint\Project1Phase3.dll
+C:\Users\AUStudent\source\repos\Project1Phase3\Project1Phase3\obj\Debug\net6.0\Project1Phase3.pdb
+C:\Users\AUStudent\source\repos\Project1Phase3\Project1Phase3\obj\Debug\net6.0\Project1Phase3.genruntimeconfig.cache
+C:\Users\AUStudent\source\repos\Project1Phase3\Project1Phase3\obj\Debug\net6.0\ref\Project1Phase3.dll

@@ -1,0 +1,15 @@
+C:\Users\AUStudent\source\repos\ProjectPhaseOneSolution\ProjectPhaseOneProject\obj\Debug\net6.0\ProjectPhaseOneProject.csproj.AssemblyReference.cache
+C:\Users\AUStudent\source\repos\ProjectPhaseOneSolution\ProjectPhaseOneProject\obj\Debug\net6.0\ProjectPhaseOneProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AUStudent\source\repos\ProjectPhaseOneSolution\ProjectPhaseOneProject\obj\Debug\net6.0\ProjectPhaseOneProject.AssemblyInfoInputs.cache
+C:\Users\AUStudent\source\repos\ProjectPhaseOneSolution\ProjectPhaseOneProject\obj\Debug\net6.0\ProjectPhaseOneProject.AssemblyInfo.cs
+C:\Users\AUStudent\source\repos\ProjectPhaseOneSolution\ProjectPhaseOneProject\obj\Debug\net6.0\ProjectPhaseOneProject.csproj.CoreCompileInputs.cache
+C:\Users\AUStudent\source\repos\ProjectPhaseOneSolution\ProjectPhaseOneProject\bin\Debug\net6.0\ProjectPhaseOneProject.exe
+C:\Users\AUStudent\source\repos\ProjectPhaseOneSolution\ProjectPhaseOneProject\bin\Debug\net6.0\ProjectPhaseOneProject.deps.json
+C:\Users\AUStudent\source\repos\ProjectPhaseOneSolution\ProjectPhaseOneProject\bin\Debug\net6.0\ProjectPhaseOneProject.runtimeconfig.json
+C:\Users\AUStudent\source\repos\ProjectPhaseOneSolution\ProjectPhaseOneProject\bin\Debug\net6.0\ProjectPhaseOneProject.dll
+C:\Users\AUStudent\source\repos\ProjectPhaseOneSolution\ProjectPhaseOneProject\bin\Debug\net6.0\ProjectPhaseOneProject.pdb
+C:\Users\AUStudent\source\repos\ProjectPhaseOneSolution\ProjectPhaseOneProject\obj\Debug\net6.0\ProjectPhaseOneProject.dll
+C:\Users\AUStudent\source\repos\ProjectPhaseOneSolution\ProjectPhaseOneProject\obj\Debug\net6.0\refint\ProjectPhaseOneProject.dll
+C:\Users\AUStudent\source\repos\ProjectPhaseOneSolution\ProjectPhaseOneProject\obj\Debug\net6.0\ProjectPhaseOneProject.pdb
+C:\Users\AUStudent\source\repos\ProjectPhaseOneSolution\ProjectPhaseOneProject\obj\Debug\net6.0\ProjectPhaseOneProject.genruntimeconfig.cache
+C:\Users\AUStudent\source\repos\ProjectPhaseOneSolution\ProjectPhaseOneProject\obj\Debug\net6.0\ref\ProjectPhaseOneProject.dll
