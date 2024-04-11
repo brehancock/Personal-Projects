@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <title>Survey Form</title>
-  <link rel="stylesheet" href="CertStyles1.css" />
+  <link rel="stylesheet" href="styles.css" />
  </head>
 </html>
 <body>
@@ -13,10 +13,10 @@ Survey Form
   <p id="description">
 With this survey we hope to better understand those who read fanfiction and what their interests most appeal to.  </p>
   <form id="survey-form">
-    <label for="name" name="name-label">Name </label><input id="name" type="text" placeholder="Enter your full name" required>
-    <label for="email" name="email-label">Email </label><input id="email" name="email" type="email" required placeholder="Enter a valid email">
-    <label for="number" name="number-label">Fanfics Read </label><input id="number" pattern="[0-9]" min="0" max"1500" placeholder="Enter # of fanfics read" required>
-    <label for="dropdown" name="dropdown-label" >Preferred Fandom<select id="fandom" name="fandom-label">
+    <label for="name" id="name-label">Name </label><input id="name" type="text" placeholder="Enter your full name" required>
+    <label for="email" id="email-label" type="email">Email </label><input id="email" name="email" type="email" required placeholder="Enter a valid email">
+    <label for="number" id="number-label">Fanfics Read </label><input type="number" id="number" pattern="[0-9]" min="0" max="1500" placeholder="Enter # of fanfics read" required>
+    <label for="dropdown" name="dropdown-label" >Preferred Fandom<select id="dropdown" name="fandom-label">
       <option disabled selected value>Select your favorite</option>
       <option value="1">Percy Jackson</option>
       <option value="2">RWBY</option>
@@ -27,9 +27,9 @@ With this survey we hope to better understand those who read fanfiction and what
       </select>
           <hr>
           <p>Please select your involvement in fanfiction</p>
-    <label><input type="radio" id="reader" name="involvement" checked>Reader</radio></label>
-    <label><input type="radio" id="writer" name="involvement" >Writer</radio></label>
-    <label><input type="radio" id="both" name="involvement">Both</radio></label>
+    <label><input type="radio" value="reader" name="involvement" checked>Reader</radio></label>
+    <label><input type="radio" value="writer" name="involvement" >Writer</radio></label>
+    <label><input type="radio" value="both" name="involvement">Both</radio></label>
     <hr>
     <p>Please select your prefered genres</p>
     <label><input name="genres" type="checkbox" value="general">General</input></label>
@@ -46,6 +46,6 @@ With this survey we hope to better understand those who read fanfiction and what
     <hr>
     <p>If you have anything you'd like to add then feel free!</p>
     <textarea rows="3" id="extra" placeholder="Have fun with it!"></textarea>
-    <input type="submit"></input>
+    <input id="submit"type="submit"></input>
     </form>
   </body>
